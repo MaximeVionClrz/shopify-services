@@ -53,7 +53,6 @@ class GlobalService
                 $this->shopifyParameters['api.version']
             )
         );
-
         if (!$this->shopifyClient) {
             $config = null != $this->shopifyParameters['access.token']
                 ? [
