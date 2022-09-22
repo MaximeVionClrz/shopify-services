@@ -2,7 +2,6 @@
 
 namespace Clrz\ShopifyServices\Service;
 
-use App\Helpful\Size;
 use Exception;
 use JetBrains\PhpStorm\ArrayShape;
 use PHPShopify\Exception\ApiException;

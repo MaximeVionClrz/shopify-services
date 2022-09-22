@@ -5,13 +5,13 @@
         "type": "git",
         "reference": "main"
     },
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "A collection of services using Shopify Php SDK to work with Shopify Store and simplify common action",
     "type": "symfony-bundle",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Clrz\\ShopifyServices\\": "src/Service"
+            "Clrz\\": "src/"
         }
     },
     "authors": [
