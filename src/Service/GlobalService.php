@@ -1,6 +1,6 @@
 <?php
 
-namespace Clrz\ShopifyServices;
+namespace Clrz\ShopifyServices\Service;
 
 use Monolog\Logger;
 use PHPShopify\Exception\ApiException;

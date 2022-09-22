@@ -1,7 +1,8 @@
 <?php
 
-namespace Clrz\ShopifyServices;
+namespace App\Service;
 
+use Exception;
 use PHPShopify\Exception\ApiException;
 use PHPShopify\Exception\CurlException;
 

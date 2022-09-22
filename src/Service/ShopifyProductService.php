@@ -1,6 +1,6 @@
 <?php
 
-namespace Clrz\ShopifyServices;
+namespace App\Service;
 
 use App\Helpful\Size;
 use Exception;
@@ -8,7 +8,7 @@ use JetBrains\PhpStorm\ArrayShape;
 use PHPShopify\Exception\ApiException;
 use PHPShopify\Exception\CurlException;
 
-class ShopifyProductService extends ShopifyService
+class ShopifyProductService extends GlobalService
 {
     public array $nextPageParams;
 
