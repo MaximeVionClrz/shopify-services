@@ -1,6 +1,6 @@
 <?php
 
-namespace Clrz\ShopifyServices\Service;
+namespace Clrz\Service;
 
 use Exception;
 use JetBrains\PhpStorm\ArrayShape;
