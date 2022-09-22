@@ -2,7 +2,7 @@
 
 namespace Clrz\ShopifyServices;
 
-class ShopifyOrderService extends ShopifyService
+class ShopifyOrderService extends GlobalService
 {
     public $nextPageParams;
 

@@ -10,7 +10,7 @@ use Psr\Log\LoggerInterface;
 use Softonic\GraphQL\ClientBuilder;
 use Symfony\Component\DependencyInjection\ParameterBag\ParameterBagInterface as ParameterBagInterfaceAlias;
 
-class ShopifyService
+class GlobalService
 {
     const GRAPHQL_URL = 'https://%s:%s@%s/admin/api/%s/graphql.json';
 

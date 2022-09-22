@@ -5,7 +5,7 @@ namespace Clrz\ShopifyServices;
 use PHPShopify\Exception\ApiException;
 use PHPShopify\Exception\CurlException;
 
-class ShopifyCustomerService extends ShopifyService
+class ShopifyCustomerService extends GlobalService
 {
     public $nextPageParams;
 
