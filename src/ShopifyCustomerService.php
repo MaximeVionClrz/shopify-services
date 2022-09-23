@@ -1,6 +1,6 @@
 <?php
 
-namespace Clrz\Service;
+namespace Clrz;
 
 use Exception;
 use PHPShopify\Exception\ApiException;

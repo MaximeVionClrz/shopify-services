@@ -1,6 +1,6 @@
 <?php
 
-namespace Clrz\Service;
+namespace Clrz;
 
 use Exception;
 use JetBrains\PhpStorm\ArrayShape;

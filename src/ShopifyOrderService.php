@@ -1,6 +1,6 @@
 <?php
 
-namespace Clrz\Service;
+namespace Clrz;
 
 class ShopifyOrderService extends GlobalService
 {
